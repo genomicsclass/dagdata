@@ -3,6 +3,6 @@ Title: Data package for PH525x series: Data Analysis for Genomics
 Version: 1.1
 Date: 2015-01-13
 Author: Michael Love and Rafael Irizarry
-Maintainer: Michael Love <michaelisaiahlove@gmail.com>
+Maintainer: Michael Love <mlove@jimmy.harvard.edu>
 Description: Data Analysis for Genomics datasets
 License: GPL-3
